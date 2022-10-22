@@ -1,0 +1,1247 @@
+E:\databasefinal\databasefinal\bin\Debug\databasefinal.exe.config
+E:\databasefinal\databasefinal\bin\Debug\databasefinal.exe
+E:\databasefinal\databasefinal\bin\Debug\databasefinal.pdb
+E:\databasefinal\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+E:\databasefinal\databasefinal\bin\Debug\Google.Protobuf.dll
+E:\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+E:\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+E:\databasefinal\databasefinal\bin\Debug\MySql.Data.dll
+E:\databasefinal\databasefinal\bin\Debug\MySqlConnector.dll
+E:\databasefinal\databasefinal\bin\Debug\System.Buffers.dll
+E:\databasefinal\databasefinal\bin\Debug\System.Memory.dll
+E:\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+E:\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\databasefinal\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+E:\databasefinal\databasefinal\bin\Debug\Zstandard.Net.dll
+E:\databasefinal\databasefinal\bin\Debug\Google.Protobuf.pdb
+E:\databasefinal\databasefinal\bin\Debug\Google.Protobuf.xml
+E:\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+E:\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+E:\databasefinal\databasefinal\bin\Debug\MySql.Data.xml
+E:\databasefinal\databasefinal\bin\Debug\MySqlConnector.xml
+E:\databasefinal\databasefinal\bin\Debug\System.Buffers.xml
+E:\databasefinal\databasefinal\bin\Debug\System.Memory.xml
+E:\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+E:\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.Form1.resources
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.exe
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.pdb
+E:\databasefinal\databasefinal\obj\Debug\sql_demo.Form2.resources
+E:\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\ano\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\User\Desktop\databasefinal\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\KENLIN\OneDrive - 長庚大學\桌面\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\finallevel\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\User\Desktop\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\finish_beauty\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+E:\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+E:\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+E:\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+E:\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+E:\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+E:\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+E:\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+E:\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+E:\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+E:\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+E:\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+E:\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+E:\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+E:\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+E:\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+E:\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+E:\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+E:\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+E:\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+E:\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+E:\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+E:\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.csprojAssemblyReference.cache
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+E:\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+E:\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\final\final change\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+D:\final\final change\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\藍迪的\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csprojAssemblyReference.cache
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_TDP.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_g_TDP.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_length.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mg_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_propose.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_PS_slot.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_p_watt.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_hz.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_capacity.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_slot.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_size.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_socket.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_storage_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.detail.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPSslot.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPwatt.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrambrand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertramhz.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrcapacity.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsize.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsocket.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_rslot.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_storage_brand.resources
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+E:\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.VBIDE.dll
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.ResolveComReference.cache
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_TDP.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_g_TDP.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_length.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mg_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_propose.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_PS_slot.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_p_watt.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_hz.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_capacity.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_slot.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_size.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_socket.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_storage_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.detail.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPSslot.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPwatt.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrambrand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertramhz.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrcapacity.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsize.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsocket.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_rslot.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_storage_brand.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+D:\final\final change\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.VBIDE.dll
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.ResolveComReference.cache
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_g_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_length.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mg_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_propose.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_PS_slot.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_p_watt.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_hz.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_capacity.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_slot.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_size.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_socket.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_storage_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.detail.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPSslot.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPwatt.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrambrand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertramhz.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrcapacity.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsize.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsocket.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_rslot.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_storage_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecase.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecooler.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatecpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updategpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatehdd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatemb.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatepsu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updateram.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.updatessd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\最終後端版 美編\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.VBIDE.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.ResolveComReference.cache
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_TDP.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_g_TDP.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_length.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mg_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_propose.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_PS_slot.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_p_watt.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_hz.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_capacity.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_slot.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_size.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_socket.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_storage_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.detail.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPSslot.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPwatt.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrambrand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertramhz.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrcapacity.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsize.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsocket.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_rslot.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_storage_brand.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+D:\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.config
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\databasefinal.pdb
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Zstandard.Net.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.pdb
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\Google.Protobuf.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySql.Data.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\MySqlConnector.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Buffers.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Memory.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.AssemblyReference.cache
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\Interop.VBIDE.dll
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.ResolveComReference.cache
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_case_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cooler_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_cpu_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_gpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_g_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_hdd.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_length.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mb.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_mg_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_propose.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_psu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_PS_slot.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_p_watt.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ram_hz.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_capacity.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_r_slot.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_size.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_socket.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_ssd.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.delete_storage_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.detail.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Form1.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertCPU_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertG_TDP.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertlength.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmg_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpropose.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPSslot.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertPwatt.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrambrand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertramhz.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertrcapacity.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsize.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertsocket.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_rslot.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insert_storage_brand.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.selectfunction.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichdetail.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichfunction.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\sql_demo.Form2.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcase.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcooler.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertcpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertgpu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.inserthdd.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertmb.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertpsu.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertram.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.insertssd.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.LoginPage.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Properties.Resources.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.RMA.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.StartPage.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.Whichone.resources
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.GenerateResource.cache
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CoreCompileInputs.cache
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.TrustInfo.xml
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe.manifest
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.application
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.csproj.CopyComplete
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.exe
+C:\Users\jellyeast\Desktop\最終後端版 online\最終幻想\最終後端版\databasefinal-end\databasefinal\obj\Debug\databasefinal.pdb

@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E810C715-B037-4C93-98A5-879C8995D45C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>databasefinal</RootNamespace>
+    <AssemblyName>databasefinal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\jellyeast\Desktop\lastexe_online\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6C4E114E1EDE2B4216462E76D220C117C5DEE177</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>databasefinal_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.1.11\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.1.11\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.25.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.25\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.1.3.10\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.3.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.25\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Zstandard.Net, Version=1.1.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.25\lib\net452\Zstandard.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="delete_case.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_case.designer.cs">
+      <DependentUpon>delete_case.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_case_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_case_brand.Designer.cs">
+      <DependentUpon>delete_case_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_cooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_cooler.designer.cs">
+      <DependentUpon>delete_cooler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_cooler_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_cooler_brand.Designer.cs">
+      <DependentUpon>delete_cooler_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_cpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_cpu.designer.cs">
+      <DependentUpon>delete_cpu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_cpu_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_cpu_brand.Designer.cs">
+      <DependentUpon>delete_cpu_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_cpu_TDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_cpu_TDP.Designer.cs">
+      <DependentUpon>delete_cpu_TDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_gpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_gpu.designer.cs">
+      <DependentUpon>delete_gpu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_g_TDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_g_TDP.Designer.cs">
+      <DependentUpon>delete_g_TDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_hdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_hdd.designer.cs">
+      <DependentUpon>delete_hdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_length.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_length.Designer.cs">
+      <DependentUpon>delete_length.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_mb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_mb.designer.cs">
+      <DependentUpon>delete_mb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_mg_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_mg_brand.Designer.cs">
+      <DependentUpon>delete_mg_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_propose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_propose.Designer.cs">
+      <DependentUpon>delete_propose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_psu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_psu.designer.cs">
+      <DependentUpon>delete_psu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_psu_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_psu_brand.Designer.cs">
+      <DependentUpon>delete_psu_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_PS_slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_PS_slot.Designer.cs">
+      <DependentUpon>delete_PS_slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_p_watt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_p_watt.Designer.cs">
+      <DependentUpon>delete_p_watt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_ram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_ram.designer.cs">
+      <DependentUpon>delete_ram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_ram_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_ram_brand.Designer.cs">
+      <DependentUpon>delete_ram_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_ram_hz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_ram_hz.Designer.cs">
+      <DependentUpon>delete_ram_hz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_r_capacity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_r_capacity.Designer.cs">
+      <DependentUpon>delete_r_capacity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_r_slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_r_slot.Designer.cs">
+      <DependentUpon>delete_r_slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_size.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_size.Designer.cs">
+      <DependentUpon>delete_size.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_socket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_socket.Designer.cs">
+      <DependentUpon>delete_socket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_ssd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_ssd.designer.cs">
+      <DependentUpon>delete_ssd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_storage_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_storage_brand.Designer.cs">
+      <DependentUpon>delete_storage_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detail.Designer.cs">
+      <DependentUpon>detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcase_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcase_brand.Designer.cs">
+      <DependentUpon>insertcase_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcooler_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcooler_brand.Designer.cs">
+      <DependentUpon>insertcooler_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcpu_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcpu_brand.Designer.cs">
+      <DependentUpon>insertcpu_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertCPU_TDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertCPU_TDP.Designer.cs">
+      <DependentUpon>insertCPU_TDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertG_TDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertG_TDP.Designer.cs">
+      <DependentUpon>insertG_TDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertlength.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertlength.Designer.cs">
+      <DependentUpon>insertlength.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertmg_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertmg_brand.Designer.cs">
+      <DependentUpon>insertmg_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertpropose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertpropose.Designer.cs">
+      <DependentUpon>insertpropose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertPSslot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertPSslot.Designer.cs">
+      <DependentUpon>insertPSslot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertpsu_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertpsu_brand.Designer.cs">
+      <DependentUpon>insertpsu_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertPwatt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertPwatt.Designer.cs">
+      <DependentUpon>insertPwatt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertrambrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertrambrand.Designer.cs">
+      <DependentUpon>insertrambrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertramhz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertramhz.Designer.cs">
+      <DependentUpon>insertramhz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertrcapacity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertrcapacity.Designer.cs">
+      <DependentUpon>insertrcapacity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertsize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertsize.Designer.cs">
+      <DependentUpon>insertsize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertsocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertsocket.Designer.cs">
+      <DependentUpon>insertsocket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insert_rslot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insert_rslot.Designer.cs">
+      <DependentUpon>insert_rslot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insert_storage_brand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insert_storage_brand.Designer.cs">
+      <DependentUpon>insert_storage_brand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectfunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectfunction.designer.cs">
+      <DependentUpon>selectfunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Whichdetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Whichdetail.designer.cs">
+      <DependentUpon>Whichdetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="whichfunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="whichfunction.designer.cs">
+      <DependentUpon>whichfunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="second.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="second.Designer.cs">
+      <DependentUpon>second.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcase.designer.cs">
+      <DependentUpon>insertcase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcooler.designer.cs">
+      <DependentUpon>insertcooler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertcpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertcpu.designer.cs">
+      <DependentUpon>insertcpu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertgpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertgpu.designer.cs">
+      <DependentUpon>insertgpu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inserthdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inserthdd.designer.cs">
+      <DependentUpon>inserthdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertmb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertmb.designer.cs">
+      <DependentUpon>insertmb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertpsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertpsu.designer.cs">
+      <DependentUpon>insertpsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertram.designer.cs">
+      <DependentUpon>insertram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertssd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertssd.designer.cs">
+      <DependentUpon>insertssd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RMA.Designer.cs">
+      <DependentUpon>RMA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPage.Designer.cs">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Whichone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Whichone.designer.cs">
+      <DependentUpon>Whichone.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="delete_case.resx">
+      <DependentUpon>delete_case.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_case_brand.resx">
+      <DependentUpon>delete_case_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_cooler.resx">
+      <DependentUpon>delete_cooler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_cooler_brand.resx">
+      <DependentUpon>delete_cooler_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_cpu.resx">
+      <DependentUpon>delete_cpu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_cpu_brand.resx">
+      <DependentUpon>delete_cpu_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_cpu_TDP.resx">
+      <DependentUpon>delete_cpu_TDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_gpu.resx">
+      <DependentUpon>delete_gpu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_g_TDP.resx">
+      <DependentUpon>delete_g_TDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_hdd.resx">
+      <DependentUpon>delete_hdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_length.resx">
+      <DependentUpon>delete_length.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_mb.resx">
+      <DependentUpon>delete_mb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_mg_brand.resx">
+      <DependentUpon>delete_mg_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_propose.resx">
+      <DependentUpon>delete_propose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_psu.resx">
+      <DependentUpon>delete_psu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_psu_brand.resx">
+      <DependentUpon>delete_psu_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_PS_slot.resx">
+      <DependentUpon>delete_PS_slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_p_watt.resx">
+      <DependentUpon>delete_p_watt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_ram.resx">
+      <DependentUpon>delete_ram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_ram_brand.resx">
+      <DependentUpon>delete_ram_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_ram_hz.resx">
+      <DependentUpon>delete_ram_hz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_r_capacity.resx">
+      <DependentUpon>delete_r_capacity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_r_slot.resx">
+      <DependentUpon>delete_r_slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_size.resx">
+      <DependentUpon>delete_size.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_socket.resx">
+      <DependentUpon>delete_socket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_ssd.resx">
+      <DependentUpon>delete_ssd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_storage_brand.resx">
+      <DependentUpon>delete_storage_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detail.resx">
+      <DependentUpon>detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcase_brand.resx">
+      <DependentUpon>insertcase_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcooler_brand.resx">
+      <DependentUpon>insertcooler_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcpu_brand.resx">
+      <DependentUpon>insertcpu_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertCPU_TDP.resx">
+      <DependentUpon>insertCPU_TDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertG_TDP.resx">
+      <DependentUpon>insertG_TDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertlength.resx">
+      <DependentUpon>insertlength.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertmg_brand.resx">
+      <DependentUpon>insertmg_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertpropose.resx">
+      <DependentUpon>insertpropose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertPSslot.resx">
+      <DependentUpon>insertPSslot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertpsu_brand.resx">
+      <DependentUpon>insertpsu_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertPwatt.resx">
+      <DependentUpon>insertPwatt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertrambrand.resx">
+      <DependentUpon>insertrambrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertramhz.resx">
+      <DependentUpon>insertramhz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertrcapacity.resx">
+      <DependentUpon>insertrcapacity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertsize.resx">
+      <DependentUpon>insertsize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertsocket.resx">
+      <DependentUpon>insertsocket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insert_rslot.resx">
+      <DependentUpon>insert_rslot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insert_storage_brand.resx">
+      <DependentUpon>insert_storage_brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectfunction.resx">
+      <DependentUpon>selectfunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Whichdetail.resx">
+      <DependentUpon>Whichdetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="whichfunction.resx">
+      <DependentUpon>whichfunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="second.resx">
+      <DependentUpon>second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcase.resx">
+      <DependentUpon>insertcase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcooler.resx">
+      <DependentUpon>insertcooler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertcpu.resx">
+      <DependentUpon>insertcpu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertgpu.resx">
+      <DependentUpon>insertgpu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inserthdd.resx">
+      <DependentUpon>inserthdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertmb.resx">
+      <DependentUpon>insertmb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertpsu.resx">
+      <DependentUpon>insertpsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertram.resx">
+      <DependentUpon>insertram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertssd.resx">
+      <DependentUpon>insertssd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RMA.resx">
+      <DependentUpon>RMA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPage.resx">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Whichone.resx">
+      <DependentUpon>Whichone.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="databasefinal_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\使用者.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\密碼.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaperflare.com_wallpaper %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\開始使用.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
